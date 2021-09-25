@@ -1,7 +1,7 @@
 {
-  "name": "smsm",
+  "name": "Nellon",
   "version": "2.1.0",
-  "description": "smsm",
+  "description": "Nellon best editor",
   "main": "smsm.js",
   "scripts": {
     "start": "node smsm.js"
